@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "12f4",
+      "name": "Nishanth Rajendran",
+      "email": "nishanthrajendran220901@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "2064",
+      "name": "Nishanth R",
+      "email": "nishanthrajendran2001@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "Rooms": [
+    {
+      "id": "095a",
+      "roomType": "Premium",
+      "roomNumber": 3,
+      "roomStatus": "Available",
+      "roomGuestName": "Nishanth Rajendran",
+      "roomGuestEmail": "nishanthrajendran220901@gmail.com",
+      "roomGuestPhone": "09080354087",
+      "roomCapacity": "2",
+      "roomNights": "3",
+      "roomCheckIn": "2024-05-08",
+      "roomCheckOut": "2024-05-10",
+      "roomPrice": 18000
+    },
+    {
+      "id": "0453",
+      "roomType": "Premium",
+      "roomNumber": 15,
+      "roomStatus": "Available",
+      "roomGuestName": "Nishanth R",
+      "roomGuestEmail": "nishanthrajendran220901@gmail.com",
+      "roomGuestPhone": "09080354087",
+      "roomCapacity": "2",
+      "roomNights": "1",
+      "roomCheckIn": "2024-05-07",
+      "roomCheckOut": "2024-05-08",
+      "roomPrice": 6000
+    }
+  ]
+}
